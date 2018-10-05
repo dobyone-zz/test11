@@ -9,4 +9,4 @@
 10/04/2018  12:40 PM                 0 a.txt
 10/04/2018  12:34 PM             8,179 Settings.aiis
                3 File(s)          8,235 bytes
-               2 Dir(s)  721,588,293,632 bytes freefasdfasd
+               2 Dir(s)  721,588,293,632 bytes freefasd
