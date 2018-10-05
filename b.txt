@@ -1,0 +1,13 @@
+ Volume in drive D is Data
+ Volume Serial Number is 16DF-2416
+
+ Directory of D:\gittest\test11
+
+10/04/2018  12:48 PM    <DIR>          .
+10/04/2018  12:48 PM    <DIR>          ..
+10/04/2018  12:34 PM                56 .gitignore
+10/04/2018  12:40 PM               437 a.txt
+10/04/2018  12:48 PM                 0 b.txt
+10/04/2018  12:34 PM             8,179 Settings.aiis
+               4 File(s)          8,672 bytes
+               2 Dir(s)  721,588,289,536 bytes free
